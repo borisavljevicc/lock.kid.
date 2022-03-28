@@ -1,2 +1,0 @@
-# lock.kid.
-locker
